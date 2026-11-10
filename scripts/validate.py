@@ -11,9 +11,10 @@ FILES = [
     "SKILL.md", "README.md", "LICENSE", "THIRD_PARTY_NOTICES.md",
     "agents/openai.yaml", "references/MODES.md", "references/ATS.md",
     "references/WRITING.md", "references/ARABIC.md", "references/OUTPUTS.md",
-    "references/PRIVACY.md", "docs/INTEGRATION.md", "docs/CODEX_HANDOFF.md", "api/server.py",
+    "references/PRIVACY.md", "docs/INSTALLATION.md", "docs/EXAMPLES.md",
+    "api/server.py", "tests/test_cv.py", "tests/test_api.py",
     "examples/sample_cv_en.json", "examples/sample_cv_ar.json",
-    "scripts/build_cv.py", "scripts/extract_cv.py", "scripts/ats_audit.py", "web/PUBLISHING_COPY.md",
+    "scripts/build_cv.py", "scripts/extract_cv.py", "scripts/ats_audit.py",
     "web/skill-card.json", "web/index.html",
 ]
 
