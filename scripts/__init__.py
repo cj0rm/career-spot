@@ -1,0 +1,1 @@
+"""Career Spot document utilities."""

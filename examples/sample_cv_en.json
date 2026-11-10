@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "profile": {
+    "full_name": "Sample Candidate",
+    "headline": "Graduate Engineering Intern",
+    "email": "candidate@example.org",
+    "phone": "+968 9000 0000",
+    "location": "Muscat, Oman",
+    "linkedin": "",
+    "portfolio": "",
+    "summary": "Engineering graduate seeking a junior operations role, with academic experience in laboratory documentation, structured data collection, and collaborative project work."
+  },
+  "skills": [
+    {"category": "Technical", "items": ["Microsoft Excel", "Laboratory documentation", "Technical reporting"]},
+    {"category": "Professional", "items": ["Team collaboration", "Process observation"]}
+  ],
+  "experience": [{
+    "title": "Student Laboratory Assistant",
+    "organization": "Sample University Laboratory",
+    "location": "Muscat, Oman",
+    "start": "2025-02",
+    "end": "2025-05",
+    "bullets": [
+      "Recorded experimental observations and maintained organized laboratory notes for coursework.",
+      "Assisted classmates with equipment preparation while following laboratory safety instructions."
+    ]
+  }],
+  "education": [{
+    "degree": "Advanced Diploma in Engineering",
+    "institution": "Sample University",
+    "location": "Oman",
+    "start": "2023",
+    "end": "2025",
+    "details": ["Completed a team research project involving laboratory documentation and results interpretation."]
+  }],
+  "projects": [{
+    "title": "Laboratory Process Review",
+    "context": "Academic project",
+    "date": "2025",
+    "bullets": ["Collected observations and prepared a report on a supervised laboratory workflow."]
+  }],
+  "certifications": [],
+  "languages": [{"name": "Arabic", "level": "Native"}, {"name": "English", "level": "Working proficiency"}],
+  "additional_sections": []
+}

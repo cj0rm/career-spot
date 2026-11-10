@@ -1,0 +1,16 @@
+{
+  "id": "career-spot",
+  "number": "002",
+  "name": "Career Spot",
+  "name_ar": "Career Spot | المسار المهني",
+  "version": "1.0.0",
+  "category": "المسار المهني والتوظيف",
+  "tagline": "من السيرة الأولى إلى طلب التوظيف.",
+  "description_ar": "مهارة عربية موحّدة لتحليل وتحسين وإنشاء السير الذاتية، والتحقق من قابلية استخراج النص، ومطابقة متطلبات الوظائف، وإعداد مستندات التقديم.",
+  "tags": ["السيرة الذاتية", "ATS", "مطابقة الوظائف", "خطاب التقديم", "المقابلات"],
+  "format": "SKILL.md",
+  "supported_agent": "Codex and compatible Skills agents",
+  "license": "MIT",
+  "github_url": "https://github.com/cj0rm/career-spot",
+  "status": "published"
+}
